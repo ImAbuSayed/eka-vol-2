@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Eka, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Eka, Vol. 2** (eka-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-12T23:31:27.027973 | `v1` | `0b723478ac9e78ba56e785265ef7726bbcaa69362ca41e0655a71e954cc8e0bd` | `601463c8be2c3c3c313918e9438371f657dcee9e9bba322a5468091b7b77238b` | `2026-05-12_eka-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
